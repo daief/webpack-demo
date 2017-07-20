@@ -22,6 +22,8 @@ npm i --save-dev url-loader file-loader
 npm i --save-dev html-webpack-plugin open-browser-webpack-plugin
 
 npm i --save-dev bundle-loader
+
+npm i --save jquery
 ```
 
 # webpack 命令
