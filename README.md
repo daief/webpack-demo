@@ -1,5 +1,14 @@
 # webpack-demo
+
+# [a collection of simple demos of Webpack——ruanyf](https://github.com/ruanyf/webpack-demos)
+
+# npm 命令
+
 ```bash
+#全局安装
+npm i -g webpack webpack-dev-server
+
+#文件目录下
 npm i webpack --save
 npm i webpack-dev-server --save
 
@@ -15,7 +24,7 @@ npm i --save-dev html-webpack-plugin open-browser-webpack-plugin
 npm i --save-dev bundle-loader
 ```
 
-命令
+# webpack 命令
 ```bash
 webpack #– for building once for development
 webpack -p #– for building once for production (minification)
