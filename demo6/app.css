@@ -1,0 +1,8 @@
+.h1 {
+  color:red;
+}
+
+/*全局*/
+:global(.h2) {
+  color: blue;
+}

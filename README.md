@@ -8,7 +8,7 @@ npm install --save-dev babel-core babel-loader babel-preset-es2015 babel-preset
 
 npm i --save-dev css-loader style-loader
 
-npm i --save-dev url-loader
+npm i --save-dev url-loader file-loader
 
 ```
 

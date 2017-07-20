@@ -1,0 +1,12 @@
+var React = require('react');
+var ReactDOM = require('react-dom');
+var style = require('./app.css');
+
+ReactDOM.render(
+	// h1 使用style.h1
+  <div>
+    <h1 className={style.h1}>Hello World class style.h1</h1>
+    <h2 className="h2">Hello Webpack class h2</h2>
+  </div>,
+  document.getElementById('example')
+);
