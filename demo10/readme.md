@@ -1,7 +1,7 @@
 # Code splitting
 
 main.js
-```bash
+```javascript
 require.ensure(['./a'], function(require) {
   var content = require('./a');
   document.open();
