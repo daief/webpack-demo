@@ -1,7 +1,7 @@
 main.js  is an entry file
 
 Webpack follows webpack.config.js to build bundle.js
-```
+```javascript
 // webpack.config.js
 module.exports = {
   entry: './main.js',
